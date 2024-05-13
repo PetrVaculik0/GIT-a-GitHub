@@ -1,3 +1,5 @@
 let jmeno = prompt ("Zadejte prosím Vaše jméno");
-alert ("Ahoj " + jmeno);
+let ahoj = '"Ahoj';
+let vyk = '!!!"' 
+alert (ahoj + " " + jmeno + vyk); 
 document.write("Vaše jméno je " + jmeno); 
